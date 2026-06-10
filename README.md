@@ -1,4 +1,4 @@
-# ⚡ Electric Quote Builder
+#  Quote Builder for Electrical
 
 A Windows desktop application for electrical contractors to build job estimates, generate professional customer quotes as PDFs, track clients, and manage job records from start to completion.
 
@@ -10,6 +10,8 @@ Built with Python, customtkinter, and ReportLab.
 ---
 
 ## 📄 Example Quote PDF
+
+Here's what an example quote would look like, which has the ability to be exported via PDF. 
 
 ![Quote Preview](example_quote.pdf)
 
@@ -30,7 +32,7 @@ Built with Python, customtkinter, and ReportLab.
 
 ## Screenshots
 
-> *(Add screenshots here once built)*
+> *WIP*
 
 ---
 
@@ -68,17 +70,6 @@ The `data/` folder is created automatically on first run and stores all your est
 
 ---
 
-## Building the .exe (Windows)
-
-```
-pyinstaller build.spec
-```
-
-Output: `dist/ElectricQuoteBuilder.exe` — standalone, no Python required.
-
-> **Note:** The `data/` folder lives next to the `.exe`. Back it up to preserve saved records.
-
----
 
 ## Project Structure
 
@@ -98,7 +89,7 @@ electric-quote-builder/
 
 ## About
 
-Built by [Regan Cunningham](https://github.com/regan10444) as a real-world desktop productivity tool.  
+Built by [Regan Cunningham](https://github.com/regan10444) and Andrew Miclette as a real-world desktop productivity tool.  
 Part of a portfolio of practical Python applications targeting small business automation.
 
 ---
