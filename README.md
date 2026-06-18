@@ -96,5 +96,5 @@ Part of a portfolio of practical Python applications targeting small business au
 
 ## License
 
-© Regan Cunningham. All rights reserved.  
+© Regan Cunningham and Andrew Miclette. All rights reserved.  
 See [LICENSE](LICENSE) for full terms. Commercial use requires written permission.
