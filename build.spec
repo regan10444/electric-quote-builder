@@ -1,4 +1,4 @@
-# build.spec — PyInstaller spec for Josh Saunders Electric Quote Builder
+# build.spec — PyInstaller spec for an Electrical Quote Builder
 # Run: pyinstaller build.spec
 
 import os
@@ -36,7 +36,7 @@ exe = EXE(
     a.zipfiles,
     a.datas,
     [],
-    name='electricalquotebuilder',
+    name='ElectricalQuoteBuilder',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
